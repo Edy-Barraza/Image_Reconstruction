@@ -1,0 +1,2 @@
+ALL_PACKAGES += Demo/ImageAnalyzer
+subdirs_src_Demo_ImageAnalyzer := src_Demo_ImageAnalyzer_python src_Demo_ImageAnalyzer_test src_Demo_ImageAnalyzer_interface src_Demo_ImageAnalyzer_plugins

@@ -1,0 +1,4 @@
+tmp/slc6_amd64_gcc630/src/Demo/ImageAnalyzer/plugins/DemoImageAnalyzerAuto/ImageAnalyzer.o: \
+ src/Demo/ImageAnalyzer/plugins/ImageAnalyzer.cc \
+ src/Demo/ImageAnalyzer/interface/pngwriter.h \
+

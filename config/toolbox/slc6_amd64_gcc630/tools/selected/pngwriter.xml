@@ -1,0 +1,9 @@
+<tool name="pngwriter" version="1.0">
+  <client>
+      <environment name="PNGWRITER_BASE" default="/afs/cern.ch/user/e/ebarraza/workspace/soft/usr"/>
+      <environment name="LIBDIR" default="/afs/cern.ch/user/e/ebarraza/workspace/soft/usr/lib"/>
+      <environment name="INCLUDE" default="/afs/cern.ch/user/e/ebarraza/workspace/soft/usr/include"/>
+  </client>
+  <lib name="PNGwriter"/>
+  <flags CXXFLAGS="-DNO_FREETYPE"/>
+</tool>
