@@ -16,7 +16,7 @@ cmsRun ConfFile_cfg.py
 
 Simple means of changing properties of image reconstruction is changing 
 ```
-Demo/ImageAnalyzer/python/ConfFile_cfg.py. 
+Demo/ImageAnalyzer/python/ConfFile_cfg.py 
 ```
 Complicated means of changing properties of image reconstruction is changing 
 ```
